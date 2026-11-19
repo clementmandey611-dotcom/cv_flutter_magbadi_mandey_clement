@@ -19,7 +19,7 @@
 
 ---
 
-## 📸 Aperçu de l'Application (Captures d'Écran)
+##  Aperçu de l'Application (Captures d'Écran)
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🎯 Description du Projet
+##  Description du Projet
 
 Cette application mobile développée avec le framework **Flutter** met en valeur le parcours académique, les compétences techniques, la famille et les coordonnées directes de **MAGBADI MANDEY CLEMENT**.
 
@@ -77,11 +77,11 @@ Elle répond fidèlement aux exigences fonctionnelles et graphiques d'une applic
 
 4. **Page Contact (`ContactScreen`)** :
    - Coordonnées directes et cliquables grâce à `url_launcher` :
-     - ✉️ **E-mail** : `clementmandey611@gmail.com` (ouvre le client de messagerie).
-     - 📞 **Téléphone** : `0837378179` (lance le composeur téléphonique).
-     - 💬 **WhatsApp Direct** : `0837378179` (ouvre une conversation WhatsApp instantanée).
-     - 🐙 **GitHub** : Lien vers les dépôts et projets.
-     - 💼 **LinkedIn** : Lien vers le profil professionnel.
+     -  **E-mail** : `clementmandey611@gmail.com` (ouvre le client de messagerie).
+     -  **Téléphone** : `0837378179` (lance le composeur téléphonique).
+     -  **WhatsApp Direct** : `0837378179` (ouvre une conversation WhatsApp instantanée).
+     -  **GitHub** : Lien vers les dépôts et projets.
+     -  **LinkedIn** : Lien vers le profil professionnel.
    - Bouton de copie rapide dans le presse-papier pour chaque coordonnée.
 
 5. **Navigation Ergonomique (`MainScreen`)** :
@@ -90,7 +90,7 @@ Elle répond fidèlement aux exigences fonctionnelles et graphiques d'une applic
 
 ---
 
-## 📁 Structure du Projet
+##  Structure du Projet
 
 ```text
 cv_flutter_magbadi_mandey_clement/
@@ -118,7 +118,7 @@ cv_flutter_magbadi_mandey_clement/
 
 ---
 
-## 🚀 Installation & Exécution
+##  Installation & Exécution
 
 ### Prérequis
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) (version 3.x ou supérieure)
