@@ -21,7 +21,7 @@
 
 ## Démonstration Vidéo
 
-**[Regarder la vidéo complète de la démo sur Google Drive](https://drive.google.com/file/d/1iHZg-fO8-dYtmE8TZ5euYogZEnTX7X3Z/view?usp=sharing)
+**[Regarder la vidéo complète de la démo sur Google Drive](https://drive.google.com/file/d/1iHZg-fO8-dYtmE8TZ5euYogZEnTX7X3Z/view?usp=sharing)**
 
 ## 📸 Aperçu de l'Application (Captures d'Écran)
 
